@@ -36,16 +36,17 @@ let config = {
   tournaments: {
     active: false,
     title: 'Tournois',
-    description: 'Tous les tournois de la Gamers Assembly Halloween Edition 2018'
+    description: 'Tous les tournois de la Gamers Assembly 2019'
   },
   info: {
     active: true,
     title: 'Informations pratiques',
-    description: 'Toutes les informations sur cet évènement'
+    description: 'Toutes les informations sur la Gamers Assembly 2019'
   },
   tickets: {
+    active: false,
     title: 'Billetterie',
-    description: 'Achetez vos places pour la Gamers Assembly Halloween Edition 2018'
+    description: 'Achetez vos places pour la Gamers Assembly 2019'
   },
   contact: {
     active: true,
