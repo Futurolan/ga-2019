@@ -23,18 +23,18 @@ let config = {
     description: 'Retrouvez toutes les actualités de la Gamers Assembly 2019'
   },
   recruit: {
-    active: true,
+    active: false,
     title: 'Recrutement',
     description: 'Devenir bénévole pour la Gamers Assembly, c\'est par ici !!!',
     formUrl: 'https://goo.gl/forms/84pHQfSp50RcuUel2'
   },
   partners: {
-    active: true,
+    active: false,
     title: 'Partenaires',
     description: 'Retrouvez la liste de tous nos partenaires'
   },
   tournaments: {
-    active: true,
+    active: false,
     title: 'Tournois',
     description: 'Tous les tournois de la Gamers Assembly Halloween Edition 2018'
   },
@@ -52,7 +52,7 @@ let config = {
     pageId: 6
   },
   press: {
-    active: true,
+    active: false,
     pageId: 7
   },
   legals: {
