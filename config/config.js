@@ -44,7 +44,6 @@ let config = {
     description: 'Toutes les informations sur la Gamers Assembly 2019'
   },
   tickets: {
-    active: false,
     title: 'Billetterie',
     description: 'Achetez vos places pour la Gamers Assembly 2019'
   },
