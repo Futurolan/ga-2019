@@ -43,6 +43,10 @@ let config = {
     title: 'Informations pratiques',
     description: 'Toutes les informations sur la Gamers Assembly 2019'
   },
+  live: {
+    title: 'Live',
+    description: 'Tous les streams et résultats en direct'
+  },
   tickets: {
     title: 'Billetterie',
     description: 'Achetez vos places pour la Gamers Assembly 2019'
