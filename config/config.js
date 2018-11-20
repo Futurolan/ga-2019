@@ -11,7 +11,7 @@ let config = {
   home: {
     // banner: '/static/img/bg-halloween-v1.png',
     hero: {
-      imgUrl: '/static/img/bg-grey-area.jpg',
+      background: '/static/img/bg-grey-area.jpg',
       title: 'Gamers Assembly',
       subtitle: 'Edition 2019'
     },
