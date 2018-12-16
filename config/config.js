@@ -29,7 +29,7 @@ let config = {
     formUrl: 'https://goo.gl/forms/84pHQfSp50RcuUel2'
   },
   partners: {
-    active: false,
+    active: true,
     title: 'Partenaires',
     description: 'Retrouvez la liste de tous nos partenaires'
   },
