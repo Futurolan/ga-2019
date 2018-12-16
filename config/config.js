@@ -4,10 +4,10 @@ let config = {
   description: 'Retrouvez la Gamers Assembly 2019 très prochainement',
   metaImage: `${process.env.BASE_URL}/static/img/logo.png`,
   gaTrackingId: 'UA-128777022-5',
-  // mainPartner: {
-  //   logo: '/static/img/logo_st_benoit.jpg',
-  //   url: 'http://www.ville-saint-benoit.fr/'
-  // },
+  mainPartner: {
+     logo: '/static/img/logo_gp.png',
+     url: 'https://www.grandpoitiers.fr/'
+  },
   home: {
     banner: '/static/img/bg-blue-area.jpg',
     //hero: {
