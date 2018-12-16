@@ -5,8 +5,8 @@ let config = {
   metaImage: `${process.env.BASE_URL}/static/img/logo.png`,
   gaTrackingId: 'UA-128777022-5',
   mainPartner: {
-     logo: '/static/img/logo_gp.png',
-     url: 'https://www.grandpoitiers.fr/'
+    logo: '/static/img/logo_gp.png',
+    url: 'https://www.grandpoitiers.fr/'
   },
   home: {
     banner: '/static/img/bg-blue-area.jpg',
