@@ -9,12 +9,12 @@ let config = {
   //   url: 'http://www.ville-saint-benoit.fr/'
   // },
   home: {
-    // banner: '/static/img/bg-halloween-v1.png',
-    hero: {
-      background: '/static/img/bg-grey-area.jpg',
-      title: 'Gamers Assembly',
-      subtitle: 'Edition 2019'
-    },
+    banner: '/static/img/bg-blue-area.jpg',
+    //hero: {
+    //  background: '/static/img/bg-grey-area.jpg',
+    //  title: 'Gamers Assembly',
+    //  subtitle: 'Edition 2019'
+    //},
     twitterAccount: 'GamersAssembly'
   },
   news: {
@@ -56,7 +56,7 @@ let config = {
     pageId: 6
   },
   press: {
-    active: false,
+    active: true,
     pageId: 7
   },
   legals: {
