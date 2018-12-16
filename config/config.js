@@ -10,11 +10,11 @@ let config = {
   },
   home: {
     banner: '/static/img/bg-blue-area.jpg',
-    //hero: {
-    //  background: '/static/img/bg-grey-area.jpg',
-    //  title: 'Gamers Assembly',
-    //  subtitle: 'Edition 2019'
-    //},
+    // hero: {
+    //   background: '/static/img/bg-grey-area.jpg',
+    //   title: 'Gamers Assembly',
+    //   subtitle: 'Edition 2019'
+    // },
     twitterAccount: 'GamersAssembly'
   },
   news: {
