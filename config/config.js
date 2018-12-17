@@ -23,7 +23,7 @@ let config = {
     description: 'Retrouvez toutes les actualités de la Gamers Assembly 2019'
   },
   recruit: {
-    active: false,
+    active: true,
     title: 'Recrutement',
     description: 'Devenir bénévole pour la Gamers Assembly, c\'est par ici !!!',
     formUrl: 'https://goo.gl/forms/84pHQfSp50RcuUel2'
