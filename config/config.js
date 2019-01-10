@@ -2,7 +2,7 @@ let config = {
   title: 'Gamers Assembly 2019',
   logo: `/static/img/logo.png`,
   description: 'Retrouvez la Gamers Assembly 2019 très prochainement',
-  metaImage: `${process.env.BASE_URL}/static/img/logo.png`,
+  metaImagePath: `${process.env.BASE_URL}/static/img/logo.png`,
   gaTrackingId: 'UA-128777022-5',
   mainPartner: {
     logo: '/static/img/logo_gp.png',
