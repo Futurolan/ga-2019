@@ -1,7 +1,7 @@
 let config = {
   title: 'Gamers Assembly 2019',
   logo: `/static/img/logo.png`,
-  description: 'Retrouvez la Gamers Assembly 2019 très prochainement',
+  description: 'Retrouvez la Gamers Assembly 2019 du 20 au 22 avril 2019 pour une 20e édition de folie !',
   metaImagePath: `/static/img/logo.png`,
   gaTrackingId: 'UA-128777022-5',
   mainPartner: {
