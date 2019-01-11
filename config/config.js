@@ -34,7 +34,7 @@ let config = {
     description: 'Retrouvez la liste de tous nos partenaires'
   },
   tournaments: {
-    active: false,
+    active: true,
     title: 'Tournois',
     description: 'Tous les tournois de la Gamers Assembly 2019'
   },
