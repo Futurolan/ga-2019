@@ -68,7 +68,8 @@ let config = {
     facebook: 'https://www.facebook.com/GamersAssembly',
     twitch: 'https://twitch.tv/gamers_assembly',
     youtube: 'https://www.youtube.com/channel/UCbfhRIAsc4xdRACnDUwRfRw',
-    flickr: 'https://www.flickr.com/photos/futurolan'
+    flickr: 'https://www.flickr.com/photos/futurolan',
+    discord: 'https://discordapp.com/invite/gamersassembly'
   }
 }
 
