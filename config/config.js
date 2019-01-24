@@ -15,7 +15,12 @@ let config = {
     //   title: 'Gamers Assembly',
     //   subtitle: 'Edition 2019'
     // },
-    twitterAccount: 'GamersAssembly'
+    twitterAccount: 'GamersAssembly',
+    partners: {
+      active: false,
+      delay: 10,
+      count: 6
+    }
   },
   news: {
     active: true,
