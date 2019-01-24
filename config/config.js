@@ -17,9 +17,9 @@ let config = {
     // },
     twitterAccount: 'GamersAssembly',
     partners: {
-      active: false,
+      active: true,
       delay: 10,
-      count: 6
+      count: 4
     }
   },
   news: {
