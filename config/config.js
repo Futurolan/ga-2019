@@ -31,7 +31,7 @@ let config = {
     active: true,
     title: 'Recrutement',
     description: 'Devenir bénévole pour la Gamers Assembly, c\'est par ici !!!',
-    formUrl: 'https://goo.gl/forms/84pHQfSp50RcuUel2'
+    formUrl: 'https://goo.gl/forms/xMUWgVAxaTTVNDbu1'
   },
   partners: {
     active: true,
