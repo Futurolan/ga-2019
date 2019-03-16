@@ -7,7 +7,7 @@ const menu = [
     children: [
       { type: 'config', id: 'infosGA' },
       { type: 'page', title: 'Grand Poitiers', id: 1246, link: '/grand-poitiers' }
-  ] },
+    ] },
   { type: 'config', id: 'partners' }
 ]
 
