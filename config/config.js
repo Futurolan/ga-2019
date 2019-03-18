@@ -83,9 +83,9 @@ let config = {
     link: '/espace-famille'
   },
   influencers: {
-    title: 'Influenceurs',
+    title: 'VIPs',
     description: 'Les personnalités qui seront présentes pour la Gamers Assembly',
-    link: '/influenceurs'
+    link: '/vips'
   },
   contact: {
     active: true,
