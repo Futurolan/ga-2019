@@ -32,6 +32,7 @@ function PageContent ({ data: { loading, error, node } }) {
 }
 
 export const page = gql`
+
   query page($nid:String!) {
     node:nodeById(id: $nid) {
       ... on NodePage {
