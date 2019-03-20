@@ -38,11 +38,6 @@ let config = {
     link: '/tournois'
   },
   info: {
-    title: 'Infos',
-    description: 'Toutes les informations sur la Gamers Assembly 2019',
-    link: '/infos'
-  },
-  infosGA: {
     title: 'Venir à la GA',
     description: 'Toutes les informations sur la Gamers Assembly 2019',
     link: '/infos'
