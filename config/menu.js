@@ -6,6 +6,7 @@ const menu = [
     title: 'Infos',
     children: [
       { type: 'config', id: 'info' },
+      { type: 'config', id: 'family' },
       { type: 'page', title: 'Grand Poitiers', id: 1246, link: '/grand-poitiers' }
     ] },
   { type: 'config', id: 'partners' }
