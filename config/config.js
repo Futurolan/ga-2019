@@ -73,9 +73,9 @@ let config = {
     link: '/exposants'
   },
   family: {
-    title: 'Espace Famille',
+    title: 'Espace Familles',
     description: 'Les activités à faire en famille durant la Gamers Assembly',
-    link: '/espace-famille'
+    link: '/espace-familles'
   },
   influencers: {
     title: 'VIPs',
