@@ -1,6 +1,7 @@
 const menu = [
   { type: 'config', id: 'news' },
   { type: 'config', id: 'tickets' },
+  { type: 'page', title: 'Pass\'Bar', id: 2822, link: '/passbar' },
   { type: 'config', id: 'tournaments' },
   { type: 'nolink',
     title: 'Infos',
