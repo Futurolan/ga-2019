@@ -7,6 +7,7 @@ const menu = [
     title: 'Infos',
     children: [
       { type: 'config', id: 'info' },
+      { type: 'config', id: 'exhibitors' },
       { type: 'config', id: 'family' },
       { type: 'page', title: 'Cosplay', id: 2673, link: '/cosplay' },
       { type: 'page', title: 'Les Offs', id: 2727, link: '/offs' },
