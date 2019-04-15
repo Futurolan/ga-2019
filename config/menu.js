@@ -8,6 +8,7 @@ const menu = [
     children: [
       { type: 'config', id: 'info' },
       { type: 'page', title: 'Location', id: 3078, link: '/location' },
+      { type: 'page', title: 'Plan', id: 3307, link: '/plan' },
       { type: 'config', id: 'exhibitors' },
       { type: 'config', id: 'family' },
       { type: 'config', id: 'influencers' },
