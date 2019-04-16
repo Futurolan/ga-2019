@@ -42,6 +42,11 @@ let config = {
     description: 'Toutes les informations sur la Gamers Assembly 2019',
     link: '/infos'
   },
+  schedule : {
+    title: 'Programme',
+    description: 'Le programme heure par heure',
+    link: '/schedule'
+  },
   live: {
     title: 'Live',
     description: 'Tous les streams et résultats en direct',
