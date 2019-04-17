@@ -42,7 +42,7 @@ let config = {
     description: 'Toutes les informations sur la Gamers Assembly 2019',
     link: '/infos'
   },
-  schedule : {
+  schedule: {
     title: 'Programme',
     description: 'Le programme heure par heure',
     link: '/schedule'
